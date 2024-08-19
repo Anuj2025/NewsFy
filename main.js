@@ -1,6 +1,6 @@
 // variables
 let qury = "General";
-const apiKey = 'cd7a3b49af094e0d8ca52472ebd5918d';
+const apiKey = '27f24d0365474311858f60fcb0a93377';
 const url = `https://newsapi.org/v2/everything?q=${qury}&from=2024-07-19&sortBy=publishedAt&apiKey=${apiKey}&c`;
 let windowIsLoaded = false;
 
