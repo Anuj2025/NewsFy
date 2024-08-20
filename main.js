@@ -1,7 +1,7 @@
 // variables
 let qury = "india";
 const apiKey = '27f24d0365474311858f60fcb0a93377';
-const url = `https://newsapi.org/v2/everything?q=${qury}&sortBy=publishedAt&apiKey=${apiKey}&c`;
+const url = `https://newsapi.org/v2/everything?q=india&sortBy=publishedAt&apiKey=${apiKey}&c`;
 let windowIsLoaded = false;
 
 function openclose() {
